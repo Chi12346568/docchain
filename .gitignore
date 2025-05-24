@@ -57,3 +57,6 @@ htmlcov/
 *.swo
 *.swn
 *.bak
+
+
+test.txt
